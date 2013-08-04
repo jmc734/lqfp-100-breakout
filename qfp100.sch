@@ -2110,15 +2110,15 @@ Standard 8.5x11 US Letter frame</description>
 <part name="26-50" library="SparkFun" deviceset="M13" device=""/>
 <part name="76-100" library="SparkFun" deviceset="M13" device=""/>
 <part name="51-75" library="SparkFun" deviceset="M13" device=""/>
-<part name="JP5" library="SparkFun" deviceset="STAND-OFF" device=""/>
-<part name="JP6" library="SparkFun" deviceset="STAND-OFF" device=""/>
-<part name="JP7" library="SparkFun" deviceset="STAND-OFF" device=""/>
-<part name="JP8" library="SparkFun" deviceset="STAND-OFF" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device="">
 <attribute name="DESIGNER" value="Jacob McDonald"/>
 <attribute name="REV" value="1"/>
 <attribute name="TITLE" value="LQFP 16-100 Pin Breakout"/>
 </part>
+<part name="JP1" library="SparkFun" deviceset="STAND-OFF" device=""/>
+<part name="JP2" library="SparkFun" deviceset="STAND-OFF" device=""/>
+<part name="JP3" library="SparkFun" deviceset="STAND-OFF" device=""/>
+<part name="JP4" library="SparkFun" deviceset="STAND-OFF" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2134,16 +2134,16 @@ Standard 8.5x11 US Letter frame</description>
 <instance part="26-50" gate="G$1" x="13.97" y="85.09"/>
 <instance part="76-100" gate="G$1" x="234.95" y="130.81" rot="MR0"/>
 <instance part="51-75" gate="G$1" x="234.95" y="85.09" rot="MR0"/>
-<instance part="JP5" gate="G$1" x="5.08" y="180.34"/>
-<instance part="JP6" gate="G$1" x="243.84" y="180.34"/>
-<instance part="JP7" gate="G$1" x="5.08" y="5.08"/>
-<instance part="JP8" gate="G$1" x="243.84" y="40.64"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="G$2" x="147.32" y="0">
 <attribute name="TITLE" x="147.32" y="0" size="1.778" layer="96" display="off"/>
 <attribute name="DESIGNER" x="147.32" y="0" size="1.778" layer="96" display="off"/>
 <attribute name="REV" x="147.32" y="0" size="1.778" layer="96" display="off"/>
 </instance>
+<instance part="JP1" gate="G$1" x="5.08" y="180.34"/>
+<instance part="JP2" gate="G$1" x="243.84" y="180.34"/>
+<instance part="JP3" gate="G$1" x="5.08" y="5.08"/>
+<instance part="JP4" gate="G$1" x="243.84" y="33.02"/>
 </instances>
 <busses>
 </busses>
