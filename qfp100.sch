@@ -2112,7 +2112,7 @@ Standard 8.5x11 US Letter frame</description>
 <part name="51-75" library="SparkFun" deviceset="M13" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device="">
 <attribute name="DESIGNER" value="Jacob McDonald"/>
-<attribute name="REV" value="1.0"/>
+<attribute name="REV" value="1"/>
 <attribute name="TITLE" value="LQFP 16-100 Pin Breakout"/>
 </part>
 <part name="JP1" library="SparkFun" deviceset="STAND-OFF" device=""/>
